@@ -1,0 +1,42 @@
+<html>
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+     <title>Liste von Rezepten</title>
+     <link rel="alternate" type="application/rss+xml" href="https://example.com/index.xml" title="Site Title">
+</head>
+<body>
+     {{ partial "header" (dict "Kind" .Kind "Template" "List") }}
+     {{.Content}}
+     {{ with .OutputFormats.Get "rss" -}}
+          {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+     {{ end -}}
+
+     {{ range .Pages }}
+          {{ if (isset .Params "draft") }}
+               <div style="border: 1px solid black; margin:10px; padding:10px; ">
+                    <div style="font-size:20px;">
+                         <div>
+                              <a style="word-wrap:normal" href="{{.URL}}">{{.Title}}</a><div style="color:grey; font-size:12px">({{ .ReadingTime }} Minute(n) Lesezeit)</div>
+                              <div style="text-align: right">
+                                   <div style="color:grey; font-size:16px;">{{ if .Params.meals }}<strong>Art der Mahlzeit::</strong> {{range .Params.meals}}<a href="{{ "/meals/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
+                              </div>                    
+                         </div>
+                         <div style="color:grey; font-size:16px;">
+                              {{ if .Params.symptoms }}<strong>Symptom:</strong> {{range .Params.symptoms}}<a href="{{ "/symptoms/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}
+                         </div>
+                         <div style="color:grey; font-size:16px;">{{ if .Params.preparationtimes }}<strong>Zubereitungszeit:</strong> {{range .Params.preparationtimes}}<a href="{{ "/preparationtimes/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>                    
+                    </div>
+                    <p/>
+                    <div style="color:grey; font-size:16px;"><strong>Erstellt am: </strong>{{ dateFormat "02. January 2006, 15:04 Uhr" .Date.Local }}</div>
+                    <div style="color:grey; font-size:16px;">{{ if .PublishDate }}<strong>Publiziert am: </strong>{{ dateFormat "02. January 2006, 15:04 Uhr" .PublishDate.Local }}{{end}}</div>
+                    <div style="color:grey; font-size:16px;">{{ if .Lastmod }}<strong>Geändert am: </strong>{{ dateFormat "02. January 2006, 15:04 Uhr" .Lastmod.Local }}{{end}}</div>
+                    
+                    {{ if .Description }}<p style="font-size:18px;">{{.Description}}</p>{{ end }}
+               </div>
+          {{end}}
+     {{ end }}
+     {{ partial "footer" . }}
+</body>
+</html>

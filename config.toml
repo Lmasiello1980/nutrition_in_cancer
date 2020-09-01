@@ -1,0 +1,12 @@
+baseURL = "https://gallant-nightingale-budgie.netlify.app/"
+languageCode = "de-ch"
+title = "Rezepte-Datenbank für Ingrid"
+
+
+theme="ga-hugo-theme"
+
+
+[taxonomies]
+    meal = "meals"
+    symptom = "symptoms"
+    preparationtime = "preparationtimes"
