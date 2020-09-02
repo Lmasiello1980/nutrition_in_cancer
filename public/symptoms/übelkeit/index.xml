@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Übelkeit on Rezepte-Datenbank für Ingrid</title><link>https://gallant-nightingale-budgie.netlify.app/symptoms/%C3%BCbelkeit/</link><description>Recent content in Übelkeit on Rezepte-Datenbank für Ingrid</description><generator>Hugo -- gohugo.io</generator><language>de-ch</language><lastBuildDate>Tue, 01 Sep 2020 23:37:59 +0200</lastBuildDate><atom:link href="https://gallant-nightingale-budgie.netlify.app/symptoms/%C3%BCbelkeit/index.xml" rel="self" type="application/rss+xml"/><item><title>Frittata</title><link>https://gallant-nightingale-budgie.netlify.app/general/frittata/</link><pubDate>Tue, 01 Sep 2020 23:37:59 +0200</pubDate><guid>https://gallant-nightingale-budgie.netlify.app/general/frittata/</guid><description>Benötigte Küchengeräte Pfanne frisch gereinigtes Schneidebrett Platter Teller Sauberes Besteck Zutaten 1 Kaffeelöffel Rapsöl 1 kleine Zwiebel (z. B. eine Frühlingszwiebel oder eine kleine rote Zwiebel) Cherrytomaten 1 Peperoni Gefrorene Erbsen 40g Scheibenkäse oder geriebener Parmesankäse Gewürze wie Salz, Pfeffer, Thymian Zutaten Pfanne auf mittlerer Stufe erwärmen und Rapsöl hinzufügen. Zwiebel, Cherrytomaten, Peperoni möglichst klein schneiden Schneidgut in die Pfanne geben. 4 Minuten lang dünsten und gelegentlich rühren.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Übelkeit on Rezepte-Datenbank für Ingrid</title>
+    <link>https://gallant-nightingale-budgie.netlify.app/symptoms/%C3%BCbelkeit/</link>
+    <description>Recent content in Übelkeit on Rezepte-Datenbank für Ingrid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-ch</language>
+    <lastBuildDate>Tue, 01 Sep 2020 23:37:59 +0200</lastBuildDate>
+    
+	<atom:link href="https://gallant-nightingale-budgie.netlify.app/symptoms/%C3%BCbelkeit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gemüse-Frittata</title>
+      <link>https://gallant-nightingale-budgie.netlify.app/general/frittata/</link>
+      <pubDate>Tue, 01 Sep 2020 23:37:59 +0200</pubDate>
+      
+      <guid>https://gallant-nightingale-budgie.netlify.app/general/frittata/</guid>
+      <description>Benötigte Küchengeräte  Pfanne frisch gereinigtes Schneidebrett Platter Teller Sauberes Besteck  Zutaten  1 Kaffeelöffel Rapsöl 1 kleine Zwiebel (z. B. eine Frühlingszwiebel oder eine kleine rote Zwiebel) Cherrytomaten 1 Peperoni Gefrorene Erbsen 40g Scheibenkäse oder geriebener Parmesankäse Gewürze wie Salz, Pfeffer, Thymian  Zutaten  Pfanne auf mittlerer Stufe erwärmen und Rapsöl hinzufügen. Zwiebel, Cherrytomaten, Peperoni möglichst klein schneiden Schneidgut in die Pfanne geben. 4 Minuten lang dünsten und gelegentlich rühren.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2 min on Rezepte-Datenbank für Ingrid</title><link>https://gallant-nightingale-budgie.netlify.app/preparationtimes/2-min/</link><description>Recent content in 2 min on Rezepte-Datenbank für Ingrid</description><generator>Hugo -- gohugo.io</generator><language>de-ch</language><lastBuildDate>Tue, 01 Sep 2020 17:29:26 +0200</lastBuildDate><atom:link href="https://gallant-nightingale-budgie.netlify.app/preparationtimes/2-min/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomatensaft</title><link>https://gallant-nightingale-budgie.netlify.app/appetiteloss/tomatojuice/</link><pubDate>Tue, 01 Sep 2020 17:29:26 +0200</pubDate><guid>https://gallant-nightingale-budgie.netlify.app/appetiteloss/tomatojuice/</guid><description> Benötigte Küchengeräte frisch gereinigtes Schneidebrett Suppenteller Zutaten Tomatensaft z. B. https://produkte.migros.ch/alnatura-tomatensaft-mit-meersalz Gewürze wie: Salz (Himmalaya-Salz schmeckt dazu besonders gut) Pfeffer Basilikumblätter Zubereitung Tomatensaft in den Teller leeren Basilikumblätter klein schneiden Tomatensaft würzen</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 min on Rezepte-Datenbank für Ingrid</title>
+    <link>https://gallant-nightingale-budgie.netlify.app/preparationtimes/2-min/</link>
+    <description>Recent content in 2 min on Rezepte-Datenbank für Ingrid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-ch</language>
+    <lastBuildDate>Tue, 01 Sep 2020 17:29:26 +0200</lastBuildDate>
+    
+	<atom:link href="https://gallant-nightingale-budgie.netlify.app/preparationtimes/2-min/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tomatensaft</title>
+      <link>https://gallant-nightingale-budgie.netlify.app/appetiteloss/tomatojuice/</link>
+      <pubDate>Tue, 01 Sep 2020 17:29:26 +0200</pubDate>
+      
+      <guid>https://gallant-nightingale-budgie.netlify.app/appetiteloss/tomatojuice/</guid>
+      <description> Benötigte Küchengeräte  frisch gereinigtes Schneidebrett Suppenteller  Zutaten  Tomatensaft z. B. https://produkte.migros.ch/alnatura-tomatensaft-mit-meersalz Gewürze wie:  Salz (Himmalaya-Salz schmeckt dazu besonders gut) Pfeffer Basilikumblätter   Zubereitung  Tomatensaft in den Teller leeren Basilikumblätter klein schneiden Tomatensaft würzen  </description>
+    </item>
+    
+  </channel>
+</rss>

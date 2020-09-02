@@ -1,1 +1,111 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://gallant-nightingale-budgie.netlify.app/</loc><lastmod>2020-09-01T23:51:49+02:00</lastmod><priority>0</priority></url><url><loc>https://gallant-nightingale-budgie.netlify.app/preparationtimes/20-min/</loc><lastmod>2020-09-01T23:51:49+02:00</lastmod></url><url><loc>https://gallant-nightingale-budgie.netlify.app/symptoms/appetitlosigkeit/</loc><lastmod>2020-09-01T23:51:49+02:00</lastmod></url><url><loc>https://gallant-nightingale-budgie.netlify.app/general/frittata/</loc><lastmod>2020-09-01T23:51:49+02:00</lastmod></url><url><loc>https://gallant-nightingale-budgie.netlify.app/general/</loc><lastmod>2020-09-01T23:51:49+02:00</lastmod></url><url><loc>https://gallant-nightingale-budgie.netlify.app/meals/hauptmahlzeit/</loc><lastmod>2020-09-01T23:51:49+02:00</lastmod></url><url><loc>https://gallant-nightingale-budgie.netlify.app/meals/</loc><lastmod>2020-09-01T23:51:49+02:00</lastmod></url><url><loc>https://gallant-nightingale-budgie.netlify.app/preparationtimes/</loc><lastmod>2020-09-01T23:51:49+02:00</lastmod></url><url><loc>https://gallant-nightingale-budgie.netlify.app/symptoms/</loc><lastmod>2020-09-01T23:51:49+02:00</lastmod></url><url><loc>https://gallant-nightingale-budgie.netlify.app/symptoms/%C3%BCbelkeit/</loc><lastmod>2020-09-01T23:51:49+02:00</lastmod></url><url><loc>https://gallant-nightingale-budgie.netlify.app/preparationtimes/2-min/</loc><lastmod>2020-09-01T23:16:19+02:00</lastmod></url><url><loc>https://gallant-nightingale-budgie.netlify.app/appetiteloss/</loc><lastmod>2020-09-01T23:16:19+02:00</lastmod></url><url><loc>https://gallant-nightingale-budgie.netlify.app/meals/snack/</loc><lastmod>2020-09-01T23:16:19+02:00</lastmod></url><url><loc>https://gallant-nightingale-budgie.netlify.app/appetiteloss/tomatojuice/</loc><lastmod>2020-09-01T23:16:19+02:00</lastmod></url><url><loc>https://gallant-nightingale-budgie.netlify.app/meals/vegetarisch/</loc><lastmod>2020-09-01T23:16:19+02:00</lastmod></url><url><loc>https://gallant-nightingale-budgie.netlify.app/preparationtimes/3-min/</loc><lastmod>2020-09-01T23:16:19+02:00</lastmod></url><url><loc>https://gallant-nightingale-budgie.netlify.app/nausea/peanutbutter_toasts/</loc><lastmod>2020-09-01T23:16:19+02:00</lastmod></url><url><loc>https://gallant-nightingale-budgie.netlify.app/meals/fr%C3%BChst%C3%BCck/</loc><lastmod>2020-09-01T23:16:19+02:00</lastmod></url><url><loc>https://gallant-nightingale-budgie.netlify.app/symptoms/nausea/</loc><lastmod>2020-09-01T23:16:19+02:00</lastmod></url><url><loc>https://gallant-nightingale-budgie.netlify.app/nausea/</loc><lastmod>2020-09-01T23:16:19+02:00</lastmod></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://gallant-nightingale-budgie.netlify.app/</loc>
+    <lastmod>2020-09-01T23:37:59+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gallant-nightingale-budgie.netlify.app/preparationtimes/20-min/</loc>
+    <lastmod>2020-09-01T23:37:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gallant-nightingale-budgie.netlify.app/symptoms/appetitlosigkeit/</loc>
+    <lastmod>2020-09-01T23:37:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gallant-nightingale-budgie.netlify.app/general/frittata/</loc>
+    <lastmod>2020-09-01T23:37:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gallant-nightingale-budgie.netlify.app/general/</loc>
+    <lastmod>2020-09-01T23:37:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gallant-nightingale-budgie.netlify.app/meals/hauptmahlzeit/</loc>
+    <lastmod>2020-09-01T23:37:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gallant-nightingale-budgie.netlify.app/meals/</loc>
+    <lastmod>2020-09-01T23:37:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gallant-nightingale-budgie.netlify.app/preparationtimes/</loc>
+    <lastmod>2020-09-01T23:37:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gallant-nightingale-budgie.netlify.app/symptoms/</loc>
+    <lastmod>2020-09-01T23:37:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gallant-nightingale-budgie.netlify.app/symptoms/vegetarisch/</loc>
+    <lastmod>2020-09-01T23:37:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gallant-nightingale-budgie.netlify.app/symptoms/%C3%BCbelkeit/</loc>
+    <lastmod>2020-09-01T23:37:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gallant-nightingale-budgie.netlify.app/preparationtimes/2-min/</loc>
+    <lastmod>2020-09-01T17:44:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gallant-nightingale-budgie.netlify.app/appetiteloss/</loc>
+    <lastmod>2020-09-01T17:44:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gallant-nightingale-budgie.netlify.app/meals/snack/</loc>
+    <lastmod>2020-09-01T17:44:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gallant-nightingale-budgie.netlify.app/appetiteloss/tomatojuice/</loc>
+    <lastmod>2020-09-01T17:44:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gallant-nightingale-budgie.netlify.app/meals/vegetarisch/</loc>
+    <lastmod>2020-09-01T17:44:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gallant-nightingale-budgie.netlify.app/preparationtimes/3-min/</loc>
+    <lastmod>2020-09-01T17:44:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gallant-nightingale-budgie.netlify.app/nausea/peanutbutter_toasts/</loc>
+    <lastmod>2020-09-01T17:44:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gallant-nightingale-budgie.netlify.app/meals/fr%C3%BChst%C3%BCck/</loc>
+    <lastmod>2020-09-01T17:44:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gallant-nightingale-budgie.netlify.app/symptoms/nausea/</loc>
+    <lastmod>2020-09-01T17:44:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gallant-nightingale-budgie.netlify.app/nausea/</loc>
+    <lastmod>2020-09-01T17:44:26+02:00</lastmod>
+  </url>
+  
+</urlset>
