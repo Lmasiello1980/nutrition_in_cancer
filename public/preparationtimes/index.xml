@@ -6,10 +6,19 @@
     <description>Recent content in Preparationtimes on Rezepte-Datenbank für Ingrid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-ch</language>
-    <lastBuildDate>Tue, 01 Sep 2020 23:37:59 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2020 17:16:34 +0200</lastBuildDate>
     
 	<atom:link href="https://gallant-nightingale-budgie.netlify.app/preparationtimes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2 min</title>
+      <link>https://gallant-nightingale-budgie.netlify.app/preparationtimes/2-min/</link>
+      <pubDate>Wed, 02 Sep 2020 17:16:34 +0200</pubDate>
+      
+      <guid>https://gallant-nightingale-budgie.netlify.app/preparationtimes/2-min/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>20 min</title>
@@ -17,15 +26,6 @@
       <pubDate>Tue, 01 Sep 2020 23:37:59 +0200</pubDate>
       
       <guid>https://gallant-nightingale-budgie.netlify.app/preparationtimes/20-min/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2 min</title>
-      <link>https://gallant-nightingale-budgie.netlify.app/preparationtimes/2-min/</link>
-      <pubDate>Tue, 01 Sep 2020 17:29:26 +0200</pubDate>
-      
-      <guid>https://gallant-nightingale-budgie.netlify.app/preparationtimes/2-min/</guid>
       <description></description>
     </item>
     

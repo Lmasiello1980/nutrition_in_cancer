@@ -8,8 +8,9 @@
 <body>
      {{ partial "header" (dict "Kind" .Kind "Template" "List") }}
      {{.Content}}
-     {{ range .Site.RegularPages }}
-          {{ if (isset .Params "draft") }}
+     <!-- { range $.Site.Pages } -->
+     {{ range .Pages }}
+     {{ if (isset .Params "draft") }}
                <div style="border: 1px solid black; margin:10px; padding:10px; ">
                     <div style="font-size:20px;">
                          <div>
@@ -30,7 +31,7 @@
                     
                     {{ if .Description }}<p style="font-size:18px;">{{.Description}}</p>{{ end }}
                </div>
-          {{end}}
+               {{ end }}
      {{ end }}
      {{ partial "footer" . }}
 </body>
