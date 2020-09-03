@@ -16,7 +16,7 @@
                          <div>
                               <a style="word-wrap:normal" href="{{.Permalink}}">{{.Title}}</a><div style="color:grey; font-size:12px">({{ .ReadingTime }} Minute(n) Lesezeit)</div>
                               <div style="text-align: right">
-                                   <div style="color:grey; font-size:16px;">{{ if .Params.meals }}<strong>Art der Mahlzeit::</strong> {{range .Params.meals}}<a href="{{ "/meals/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
+                                   <div style="color:grey; font-size:16px;">{{ if .Params.meals }}<strong>Art der Mahlzeit:</strong> {{range .Params.meals}}<a href="{{ "/meals/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
                               </div>                    
                          </div>
                          <div style="color:grey; font-size:16px;">

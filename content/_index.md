@@ -1,6 +1,3 @@
-Alle Zutaten sind pro Person gerechnet.
-
-https://gallant-nightingale-budgie.netlify.app/
-
+Alle Zutaten sind pro Person berechnet.
 
 
