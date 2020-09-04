@@ -2,6 +2,7 @@
 title:             "{{ replace .Name "-" " " | title }}"
 date:              {{ .Date }}
 lastmod:           {{ .Date }}
+publishdate:       {{ .Date }}
 description:       "{{ replace .Name "-" " " | title }}"
 draft:             true
 meals:             ["Snack"]
@@ -16,5 +17,5 @@ preparationtimes:  ["2 min"]
 # Zutaten
 
 
-# Zutaten
+# Zubereitung
 

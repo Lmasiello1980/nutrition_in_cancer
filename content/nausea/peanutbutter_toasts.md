@@ -2,6 +2,7 @@
 title:             "Erdnussbutter-Toasts"
 date:              2020-09-01T17:08:36+02:00
 lastmod:           2020-09-01T17:44:26+02:00
+publishdate:       2020-09-01T17:44:26+02:00
 draft:             false
 meals:             ["Snack", "Frühstück", "Vegetarisch"]
 description:       "Erdnussbutter auf Toasts"
