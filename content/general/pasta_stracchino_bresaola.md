@@ -8,7 +8,7 @@ draft:             false
 meals:             ["Hauptmahlzeit"]
 symptoms:          ["Appetitlosigkeit", "Übelkeit"]
 author:            "Lorenzo"
-preparationtimes:  ["20 min"]
+preparationtimes:  ["25 min"]
 ---
 
 # Benötigte Küchengeräte

@@ -5,10 +5,10 @@ lastmod:           2020-09-02T17:16:34+02:00
 lastmod:           2020-09-03T20:01:17+02:00
 description:       "Gebratener Thunfisch-Burger mit Gemüse"
 draft:             false
-meals:             ["Snack"]
+meals:             ["Hauptmahlzeit", "Snack"]
 symptoms:          ["Appetitlosigkeit"]
 author:            "Lorenzo"
-preparationtimes:  ["2 min"]
+preparationtimes:  ["25 min"]
 ---
 
 # Benötigte Küchengeräte
