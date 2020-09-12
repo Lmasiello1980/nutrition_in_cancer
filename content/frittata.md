@@ -1,13 +1,13 @@
 ---
-title: "Gemüse-Frittata"
-date: 2020-09-01T23:37:59+02:00
-lastmod: 2020-09-01T23:37:59+02:00
-description: "Einfache Frittata mit Gemüse und Käse"
-draft: false
-meals: ["Hauptmahlzeit"]
-symptoms: ["Appetitlosigkeit", "Übelkeit", "Vegetarisch"]
-author: "Lorenzo"
-preparationtimes: ["20 min"]
+title:             "Gemüse-Frittata"
+date:              2020-09-01T23:37:59+02:00
+lastmod:           2020-09-01T23:37:59+02:00
+description:       "Einfache Frittata mit Gemüse und Käse"
+draft:             false
+meals:             ["Hauptmahlzeit"]
+symptoms:          ["Appetitlosigkeit", "Übelkeit", "Vegetarisch"]
+author:            "Lorenzo"
+preparationtimes:  ["20 min"]
 ---
 
 # Benötigte Küchengeräte

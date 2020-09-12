@@ -1,14 +1,15 @@
 ---
-title: "Tomatensaft"
-date: 2020-09-01T17:29:26+02:00
-lastmod: 2020-09-01T17:44:26+02:00
-description: "Ein einfacher Tomatensaft aus dem Lebensmittelladen"
-draft: false
-meals: ["Snack", "Hauptmahlzeit", "Vegetarisch"]
-symptoms: ["Appetitlosigkeit"]
-author: "Lorenzo"
-preparationtimes: ["2 min"]
+title:             "Tomatensaft"
+date:              2020-09-01T17:29:26+02:00
+lastmod:           2020-09-01T17:44:26+02:00
+description:       "Ein einfacher Tomatensaft aus dem Lebensmittelladen"
+draft:             false
+meals:             ["Snack", "Hauptmahlzeit", "Vegetarisch"]
+symptoms:          ["Appetitlosigkeit"]
+author:            "Lorenzo"
+preparationtimes:  ["2 min"]
 ---
+
 
 # Benötigte Küchengeräte
 - frisch gereinigtes Schneidebrett
