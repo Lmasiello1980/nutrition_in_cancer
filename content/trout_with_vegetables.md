@@ -29,6 +29,7 @@ singlePageImages:  ["2020091519415700.png", "2020091519414900.png"]
   - Gelbe Paprika (sieht farblich hübscher aus, aber rote Paprikas haben mehr Vitamin C)
 
  # Zubereitung
+ 
 1. In einer beschichteten Pfanne den Sonnenblumenöl auf mittlerer Stufe erhitzen.
 2. Gemüse schneiden
 3. Alles in die Pfanne geben
