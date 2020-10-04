@@ -4,7 +4,7 @@ date:              2020-10-04T12:04:00+02:00
 lastmod:           2020-10-04T12:04:00+02:00
 publishdate:       2020-10-04T12:04:00+02:00
 description:       "Protein-Shake mit Snickers und Chia-Samen"
-draft:             true
+draft:             false
 meals:             ["Snack"]
 symptoms:          ["Appetitlosigkeit"]
 author:            "Lorenzo"
